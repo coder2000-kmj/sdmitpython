@@ -1,0 +1,21 @@
+1. An IT company going to hire for following technology: java, python, script
+of 20 people for the project among 3 people were already booked in the odd positions 4 people in alternate even position,now write a program to hire rest
+
+2. Bank charges for exceed the limited transaction
+
+1. Fill the series: aBdUl KaLaM
+
+1. Print the chart of platinum class(amount is 300) of theatre which has 4 rows in each 8 seats
+consider occupied seat print as |
+not occupied as ^
+
+sample output:
+|||^^||^
+^^^^||^|
+|||^^^^|
+^^^|||||
+
+2. Bus Chart for 7 rows 4 seats in each 
+filled one $
+# for not filled
+

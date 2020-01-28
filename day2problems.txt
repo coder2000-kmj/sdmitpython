@@ -1,0 +1,9 @@
+1. An IT company going to hire for following technology: java, python, script
+of 20 people for the project among 3 people were already booked in the odd positions 4 people in alternate even position,now write a program to hire rest
+
+2. Bank charges 20rs fee for debit transaction each if its more than 5 from the last 10 transaction list
+
+3. Bus Chart for 7 rows 4 seats in each 
+filled one $
+# for not filled
+
