@@ -1,0 +1,41 @@
+1. Print the first N prime numbers
+
+2. Get and print the string in X format
+eg:android
+a     d
+ n   i
+  d o
+   r
+  d o
+ n   i
+a     d
+
+3. remove N number of characters in the string from the given Point
+eg:
+razak mohamed
+2
+4
+output: razamohamed
+
+4. Consider an list holds the 10 cookies name among; find cookie name's starts with any vowels and  replace those with next non-vowel name
+
+5. Find the count of repeatation occurs in character from among the string based on N value distance to seek
+Example Input/Output 1:
+Input:
+abcdabcd 4
+Output:
+8
+Example Input/Output 2:
+Input:
+abcddcba 5
+Output:
+6
+Explanation:
+The character a at index 0 is not repeated within the next 5 characters or previous 5 characters.
+The character b at index 1 is repeated within the next 5 characters.
+The character c at index 2 is repeated within the next 5 characters.
+The character d at index 3 is repeated within the next 5 characters.
+The character d at index 4 is repeated within the previous 5 characters.
+The character c at index 5 is repeated within the previous 5 characters.
+The character b at index 6 is repeated within the previous 5 characters.
+The character a at index 7 is not repeated within the next 5 characters or previous 5 characters.
