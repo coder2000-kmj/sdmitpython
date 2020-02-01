@@ -1,3 +1,12 @@
+1. Do the swap operation in int array if you find two least elements which those should be unique
+Sample Input:
+Array elements:
+4 2 6 7 2 5
+Sample Output:
+5 2 6 7 2 4
+Note:
+Least elements is 2 and 4 but 2 is duplicated so perform swap between 5 and 4
+
 2. A consultant class which contains name,exp,skill, pay among find the pay based on skill and exp, do this for 4 consultants
 Note: 12000 >> 5 - 10yrs , atleast java or python
 7000>> 3-8>> atleast python or AI
