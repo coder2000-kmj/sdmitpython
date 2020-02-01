@@ -1,0 +1,8 @@
+2. A consultant class which contains name,exp,skill, pay among find the pay based on skill and exp, do this for 4 consultants
+Note: 12000 >> 5 - 10yrs , atleast java or python
+7000>> 3-8>> atleast python or AI
+5000>> 4-10>> atleast java or c or c++ or python
+
+3. Bank details(holder,number,balance) class objects are stored in teller class list,
+perform withdraw using -;eg:obj-[num,1000]
+perform credit using + ; eg:obj+[num,1000]
