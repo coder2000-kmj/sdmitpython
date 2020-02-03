@@ -1,0 +1,6 @@
+day5:
+1. using recursive find and sum the numbers which are all odd or divisable by 7 from the list
+2. the list which contains the 10 recent transactions amount
+a. insert 10 amount like we did warehouse program
+b. put charges of 20rs if taken is happened more than 5 and subtract it at end of amount if its not sufficient to pay charges add as lien charges
+Note: use recursion for all

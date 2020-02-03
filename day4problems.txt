@@ -1,0 +1,16 @@
+1. Consider an dictionary which holds pendrive prices along with brand among delete the items as given interval by the users
+Note: use recursive function
+2. Consider an dictionary holding the govt officers name, role among try to change their role to RI if VAO, return the count of changes
+Eg:
+{"Kaushal":"RI","Neha":"Thalisthar","Avinashi":"VAO"}
+output:
+{"Kaushal":"RI","Neha":"Thalisthar","Avinashi":"RI"}
+1
+Note: use recursive function
+
+3. Use recursive function to reverse the dictionary items of second problem
+4. Use recursive function to find words starts with any vowel and interchange it by next non-vowel word
+5. Consider an dictionary contains departments available in SDM along with last year minimum cuttoff,
+a. do the counselling for atleast 20 people
+b. get the desired department and let them choose if their cuttoff + or - minimum one of that
+c. count each department's occupied seats
