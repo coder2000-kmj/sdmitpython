@@ -3,7 +3,7 @@ a. insert 10 amount like we did warehouse program
 b. put charges of 20rs if taken is happened more than 5 and subtract it at end of amount if its not sufficient to pay charges add as lien charges
 Note: use recursion for all
 
-2. Consider In array there are 20 integers, among try to find the one pair of duplicate and replace it by the nearest element + 7
+2. Consider In array there are 20 integers, among try to find the one pair of duplicate and replace it by the nearest element + 10
 eg:
 [12,90,34,78,11,90]
 output: [12,22,34,78,11,21]
