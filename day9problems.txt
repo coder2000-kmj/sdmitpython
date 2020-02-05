@@ -1,0 +1,16 @@
+1. A thread resource class simple contains the list of ctc of 10 employees like
+ctc=[4.5,9.2,12.3,2.8,9.1,4.5,6.2,3.5,9.1,2.4]
+among try to increment the employees salary of 10% those comes under given minimum and maximum, which get from the user(HR)
+try to do the same 3 times(3-HR)
+perform the Lock to acquire and release wherever requires
+Note: This problem we done in end of today session
+
+2. Consider the above class and perform the two deletion in separate function in where those desired indecies to be deleted should get from user like above example update, create atleast 4 threads(object) from main to test; use acquire and release
+
+3. Concatenate respective element of first array with that of second array (Don’t use function) is that of the result array ,Sort the formed array 
+Example: 
+Input 
+5 10 400 20 50 30 
+15 25 35 45 55 
+Output
+1015 2035 3055 5045 40025
