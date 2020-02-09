@@ -10,7 +10,7 @@ Note: This problem we done in end of today session
 3. Concatenate respective element of first array with that of second array (Don’t use function) is that of the result array ,Sort the formed array 
 Example: 
 Input 
-5 10 400 20 50 30 
+10 400 20 50 30 
 15 25 35 45 55 
 Output
 1015 2035 3055 5045 40025
